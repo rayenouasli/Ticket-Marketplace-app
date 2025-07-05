@@ -35,7 +35,7 @@ function Header() {
 
         {/* Search Bar - Full width on mobile */}
         <div className="w-full lg:max-w-2xl">
-          <SearchBar />
+         <SearchBar />
         </div>
 
         <div className="hidden lg:block ml-auto">
